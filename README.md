@@ -14,11 +14,6 @@ Brief Overview of Constituent Projects:
 ——————————————————————————————
 
 ## Project 51-AFKI
-- Recognises that a significant number of Muslims around the world are facing discrimination and violence;
--  Is alarmed by the noticeable gap between the number of people who identify as Muslim and the number of people who are practising Muslims;
-- Is deeply disturbed by the hijacking of the name of Islam and the distortion of its teachings by extremist elements to justify violence against innocent civilians;
-
-
 
 These days are certainly not the best days for the Muslims. Our religion is under attack. Islamophobia is on the rise. 
 

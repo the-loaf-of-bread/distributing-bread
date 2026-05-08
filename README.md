@@ -44,6 +44,79 @@ Look at the era before Islam; the era of Jahiliyyah[23]. The situation appeared 
 
 The ‘systematic renewal’ in question was anything but easy. 23 years of unparalleled dedication and sacrifice were required. Prophet Muhammad (PBUH) and his Companions (RA) had to face persecution and hardships at every turn. The Prophet (PBUH) had to tolerate being labeled a sorcerer, a liar, a madman and a poet[24][25][26].
 
+---
+
+What you just read was the unfinished but 'neat' version of the description-text of this project. Including the rough one here that I predicated the (abovely) text on below, just in case I never get to finish it myself:
+
+- these days are not the best days for the Muslims. Islam under attack. Islamophobia is on rise. 
+- Strange glad tidings hadith
+- 70k Palestinians, this many Uighurs, this many Rohingya, this many Kashmiris.
+- distracted people, concerned with the world, some “Muslim” nations actively supporting the zionist state and funding other genocides. Muslims disunited. Sin is rampant. 
+- One might as well just give up on trying to address all these issues. But the Qur’an doesn’t say give up and surrender. It says strive. It says enjoin good and forbid evil. To go on. 
+- Take look at it this way:
+- The situation we’re in is eerily similar to Arabia in the Jahiliyia period (age of ignorance) is it not? 
+- Today there’s 2 billion Muslims. Then there were basically none. (footnote: Hanif people existed) 
+- Yet did the prophet and his companions give up? 
+- At any time and place where prophets came: were they sent to a people already guided? No they were not. They were sent to problematic areas. 
+- Did any of them give up? They did not. They went on with their missions no matter what happened.
+- Consider our own prophet. He went through severe opposition from his fellow tribesmen. Persecution. (List confirmed sahih persecutions)
+- And consider his companions. Hz Bilal beaten up on sand etc. (list confirmed sahih persecutions). 3 years of boycott during which they had to resort to eating roots of trees. 
+- They had to leave their homeland behind and migrate to Abyssinia and Medina. Even then the enemies of Islam didn’t let them rest in peace. 313 v 1000; extremely outnumbered. Then 700 v 3000. Then trench. Then the battles against apostates and Sassanids and Byzantines. 
+- The odds always seemed to be against the Muslims yet they prevailed. They never surrendered. They beared unbearable persecution and surmounted seemingly insurmountable obstacles. 
+- What kept them going despite all the opposition? What made many give up their comfortable lives? What made them bear all the persecution. What kept them from running away when they saw much superior forces? 
+- It was their faith. Their faith in Allah, their conviction, their belief. 
+- That is the answer to our problems. Today, many people r quick to recognise that our issue is wahn. We’re distracted. We don’t pay much attention to Islam. Yet many stop there.  Few question why this is the case. 
+- For this we’ll need to discuss humans’ psychology(?) a bit.
+- If a random person walks up to you and asks you to join him in a war, will you just go right away? Ofc not. You don’t know who he is. What he’s fighting for. If he’s right or wrong. The same applies to faith. Why would a random person, when presented with some verses from the Qur’an or asked to pray Salah, agree? He doesn’t have conviction in Islam, so he’ll naturally decline. 
+- This is a major problem today. Many people r Muslim today simply because they were born into Muslim families. Many have never really investigated into Islam themselves and thanks to the secular age most are just busy thinking about their financial future and whatnot. And chilling and stuff and all that without ever thinking abt Islam. They don’t know why Islam is true.
+- Then there are some who know that Islam is true. But they still don’t apply its teachings. Revisit that random-guy asking you to go to battle with him. Even if he convinces you that the matter is of great importance and is ethical and whatnot, why should you follow him? What’s in it for you? 
+- That’s where the issue of incentives comes up. Because of the sheer importance of obeying Allah. Of praying, of this, of that. And of worldly benefits too, which is the hikmah behind Islamic injunctions like zakat being there to economically benefit the society etc. and ushr rates differing based on irrigation to incentivise ppl to develop irrigation stuff. And prayer being a reboot and spiritual connection to Allah. Etc. and also heaven and hell.. not just a mention of them, vivid descriptions so people are incentivised to strive for heaven and stay away from hell.
+- Then there’s the final type which is the hardest to cure and often impossible to cure. Ego. Iblid for example knows Islam is true and knows that he SHOULD do good stuff to get into heaven and avoid hell and he knows what they’re like. But he’s sooo egoistic he just doesn’t. May Allah prevent us all from being like him. 
+- So… this is where our project comes in. Project 51-AFKI of Operation Distributing Bread. 
+- Open source, crowdsourced, crowdfunded. The ultimate aim of which is to compile various resources for Islam. The main goal is a book with three versions… a short tldr version, a standard edition, and a scholarly edition which if necessary may have several volumes. 
+- Now you may say there are already many great resources for Islam and in that we wholeheartedly agree. But think again abt the early days of Islam. The Qur’an was written on many different parchments and bones and whatnot. But then it was compiled under Hz Abu Bakr (and standardised under Hz Uthman) which allows us today and allowed people then to study Islam and the Qur’an with ease without having to find different parchments and whatnot. 
+- Witness, warner, bearer of glad tidings verse somewhere around here
+- The whole purpose of this compilation is also this. To make it easy for everyone, Muslim or not, to study Islam. The book isn’t the only thing. We aspire to make websites, infographics, lectures, courses for educational institutions, video series, podcasts, and even basic conversations and speeches. The mode of the transmission of knowledge isn’t what matters more. What matters more is that this knowledge is transmitted.
+- The format of this book and site and all is basically this. Section 1 related to veracity of Islam. Start by disproving atheism, and proving that God exists. Then discussing the probs with polytheism, simulationism, pantheism, etc till we’ve concluded that monotheism is the only logical choice. Then we present proofs for Islam. 
+- Allah’s Attributes through His Names. His Messenger’s teachings and character. The prophecies of Islam. The perfection of Islam’s teachings. The Qur’an and its miracles. Islam’s consistency with knowledge and logic and proven science. (Chapter 3), debunking islamophobes’ attacks against Islam. 
+- Chapter 4 to disproving other religions like Christianity and Judaism and Hinduism etc by pointing out inconsistencies and all. 
+- Section 2, relating to incentives we discussed. Then in later chaps, discuss Islamic teachings because we just learned why Islam is true so how to get started. We can also use to discuss Islam and its teachings in general. also, a way of Islamic thinking. nowadays ppl face 'problematic' verses n ahadith n reinterpret Islam to feel better, or sometimes reject Islam, or selectively reject ahadith. importance of knowing context right there.
+- Section 3, relating to applying Islam in the modern era. Not 'reforming' and 'bidah'ing Islam. Just applying it again. A roadmap basically. Discussing solutions to modern problems. Perhaps ways to solve the crises we face. Stuff like importance of uh learning, entrepreneurship, a good edu system which produces thinkers rather than mere workers, stuff like a bayt al hikma 2.0, etc. Not to mention: the importance of brotherhood. We all know Saladin. Who preceded Saladin? Nureddin. Whereas Salahuddin built the building, the materials were gathered by and the foundation was built by Nureddin. His main goal? Unity. So yes, lots and lots of verses and ahadith supporting the idea of unity and brotherhood in Islam. Other than that we can include references to project er-97 and project chlorophyll. cuz the Earth is a blessing from Allah. And we must protect it and care for it. Cite lots and lots of verses n ahadith supporting environmental action. also er-97: literally the first Word of the Quran that was revealed was "read". the Quran says look around, observe, think. so we need an edu system doing that.
+- contents of this book however necessary
+- So, what can you do?
+
+
+- We don’t ask you for your money, we ask for your contributions. 5mins a day is good for us. We’re not asking u to be always available. I understand this as a student myself. This project has been a one man army. Crowdfunding is better. There are many. Many ways in which u can contribute. 
+
+- Some of the ways in which you can contribute
+* Give us ideas
+* Be an advisor
+* Submit facts (with sources)
+ 
+* Set up a proper website for our knowledge repository
+* Cybersecurity expert, work to safeguard our website against malicious activities such as DDOS attacks and   hacking
+* Simply use wayback machine to save our website’s webpages every time you view it
+* Tell your friends about the project
+* Sponsor the free printing and the distribution of the books
+* Set up a better way for us to receive submissions as Google Forms is not that flexible
+* Set up a better way for us to display said submissions
+* Set up a better place for us to communicate and coordinate
+
+ * Help us get in contact with Islamic organisations and scholars around the world
+* Encourage said organisations and scholars to collaborate with us actively
+* Be among the writers and/or editors of the book
+* Design the book, its cover page, images and infographics for using inside it… ensuring book looks professional and is readable
+* Translate this text into other languages; such as Arabic, Turkish, Urdu, Chinese, Russian, German, etc.
+* Translate the finished book into other languages
+* Translate the site into finished books
+* Verify submitted facts
+* Research
+- So uh yes. We have this site. This server. This is the forms where you submit stuff. We could use better platforms and distributed networks to avoid all our stuff being taken down. Also other stuff. 
+- Tl;dr
+5mins a day is good for us btw
+
+thas abt it.
+
 ## Project ER-97
 - Recognises that the educational system is outdated and is in need of reform in order to ensure that students develop proper learning skills;
 

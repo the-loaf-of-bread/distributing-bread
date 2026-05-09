@@ -123,6 +123,23 @@ thas abt it.
 ## Project Chlorophyll
 - Recognises that our planet is facing a myriad of environmental problems such as climate change and global warming;
 
+### Miscellaneous Ideas
+
+Okay. 
+There’s already three extremely ambitious projects here. but… there’s room for two more. 
+
+One for softening people’s hearts towards Islam; the people who don’t care as much abt theology; by highlighting Islam’s "worldly" contributions. For example, the hadith stating “there is a cure for every disease” fuelling Islamic research. So many words being inspired from Arabic. Bayt al Hikma etc. and Toledo and Baghdad and Cordoba. So basically Islamic history and achievements. Must take care not to attribute everything to Islam: give credit where it's due to others. Intellectual honesty must be an integral part of a Muslim. 
+
+Second project for financing all these other projects once it gets to the phase where the books n all are ready and money has to be spent on stuff like printing, translation, designing marketing, turning-into-videos/infographics etc. by maybe investing in entrepreneurial ventures in Muslim societies and communities. This way you make them progress economically too, have Islam-first and highly moral businesses, and u can maybe take 10 percent of the profit for ODB (operation distributing bread). And maybe another 10% for literally "distributing bread". Take care in this project to maintain maximum levels of integrity and transparency and take all methods necessary to prevent any and all corruption.
+
+Important Note: Project 51-AFKI is the main "foundation", it is a pillar. Without said foundation, every other project will be harder to achieve. If, however, Project 51-AFKI succeeds, then it will provide a "fuel" to the people and basically empower to pursue such developmental projects themselves. 
+
+Another important note, this set of projects is not supportive of any sectarian division, etc. A suitable lens, in the humble opinion of the loaf of bread, of identifying the right methodology of following Islam, is by seeing if the 'sect' or whatever appeared on the scene much later. And if people focus on that sectarian label more than the Muslim label itself. Therefore khawarij, etc. disqualify. All sects appearing late disqualify from Mutazila to Druze to modern stuff such as Quranism. 
+
+This 'operation' or set of projects believes in the Qur'an as the main primary source, and THE LOAF OF BREAD DOES NOT MAKE ANY CLAIM TO SCHOLARSHIP AS OF YET. It is recommended to everyone to not do layman's ijtihad. And to rely on proper recognised tafasir of the Qur'an. Same goes for ahadith, rely on Sahih and Hasan ahadith only. And check the commentary. Because some ahadith may seem "problematic" to people in this day and age. But by looking at the context and the history etc, it can all be explained. The Qur'an and the Sunnah are the main primary sources. Ijma and Qiyas follow. In the views of this loaf of bread. Since these have a backing in the Qur'an and ahadith and in the Seerah. 
+
+Another thing, an Islamic way of thinking. If posed with anything problematic, one mustn't be quick to dismiss that by things such as 'oh no the ahadith are very untrustworthy'. One must seek to find the answers. For instance one might come across an eyes-branded claim online. It would be unwise to see that and just reject ahadith in one go. A little digging deeper with a pure intention to seek the truth from credible Islamic sources, however, reveals that it was done as part of Qisas. 
+
 ## References:
 1. https://sunnah.com/muslim:145
 2. https://www.cair.com/press_releases/cairs-civil-rights-report-shows-islamophobia-complaints-at-all-time-high-viewpoint-discrimination-key-factor/

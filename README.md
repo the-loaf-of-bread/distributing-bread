@@ -17,11 +17,11 @@ Brief Overview of Constituent Projects:
 
 These days are certainly not the best days for the Muslims. Our religion is under attack. Islamophobia is on the rise. 
 
-“Islam initiated as something strange, and it would revert to its (old position) of being strange, so glad tidings to the strangers.” (Sahih Muslim 145)[1]
+> “Islam initiated as something strange, and it would revert to its (old position) of being strange, so glad tidings to the strangers.” (Sahih Muslim 145)[1]
 
 This is unfolding before our eyes. For example, a study by CAIR concluded that anti-Muslim incidents reached record highs in 2024, with a 7.4% year-on-year increase in the US[2][3]; while the EU FRA found that in 2024 nearly ​​50% of Muslims in the EU reported experiencing discrimination in daily life[4], an increase from 39% reported in 2016[5]. Another study found that in fourteen American newspapers, 80% of all articles related to Muslims were negative[6][7]. At the same time as this, surveys by the Arab Barometer[8][9] show that there is a noticeable gap between the number of people who identify as Muslim, and the number of people who pray daily; which is a rather troubling fact. 
 
-“The bonds of Islam will be undone one by one, and every time a bond is undone, the people will cling to what follows it. The first to be undone will be ruling, and the last will be the prayer.” (Musnad Aḥmad 22160)[10]
+> “The bonds of Islam will be undone one by one, and every time a bond is undone, the people will cling to what follows it. The first to be undone will be ruling, and the last will be the prayer.” (Musnad Aḥmad 22160)[10]
 
 There are certain correctable reasons behind the undoing of these bonds; but before we discuss those reasons and how to address them, we need to recognise that due to the absence of the bond of ruling, this “decay” is not restricted to the intellectual domain. Approximately 72,000 Palestinians have been martyred since 7th October 2023, and about 170,000 have been injured[11]. Close to 700,000 Palestinians were displaced during the First Nakba[12]. In contrast, nearly the entire population of Gaza has been displaced since 7th October 2023[13]. In Kashmir, there have been indiscriminate killings, enforced disappearances, rapes, extrajudicial executions, curfews, raids on hospitals, and much more[14]. Similarly, the Uyghurs in China have been subjected to torture, ill-treatment in detention camps, mass surveillance, and restrictions to freedom of movement, freedom of speech, and even freedom of reproduction (by forcing Uyghurs to be sterilised)[15][16]. 
 
@@ -34,7 +34,8 @@ Simultaneously, extremist elements have hijacked the name of Islam and distorted
 To many, the situation appears irredeemable. Witnessing the failure of many movements that sought to improve the status quo has left the people in a state of ‘learned helplessness’[21]; we have been gradually conditioned to believe that our individual and collective thoughts and actions do not matter much. It has become commonplace for people to get disillusioned and give up. 
 
 Yet, this resignation is incompatible with the methodology of Islam. Our religion does not teach us to accept defeat and surrender; it teaches us to strive. 
-“And let there be (arising) from you a nation inviting to (all that is) good, enjoining what is right and forbidding what is wrong, and those will be the successful.” (Āli-ʿImrān, Ayah 104)[22]
+
+> “And let there be (arising) from you a nation inviting to (all that is) good, enjoining what is right and forbidding what is wrong, and those will be the successful.” (Āli-ʿImrān, Ayah 104)[22]
 
 The mandate to enjoin that which is right and forbid that which is wrong is not a suggestion, but a command. It is the divine mechanism through which we are able to keep our society calibrated. By abandoning this, we are not merely allowing our societal structure to decay; we are failing to fulfill an injunction from Allah Himself. 
 
@@ -60,7 +61,7 @@ What you just read was the unfinished but 'neat' version of the description-text
 - At any time and place where prophets came: were they sent to a people already guided? No they were not. They were sent to problematic areas. 
 - Did any of them give up? They did not. They went on with their missions no matter what happened.
 - Consider our own prophet. He went through severe opposition from his fellow tribesmen. Persecution. (List confirmed sahih persecutions)
-- And consider his companions. Hz Bilal beaten up on sand etc. (list confirmed sahih persecutions). 3 years of boycott during which they had to resort to eating roots of trees. 
+- And consider his companions. Hz Bilal beaten up on sand etc. (list confirmed sahih persecutions). 3 years of boycott during which they had to resort to eating leaves or roots of trees. 
 - They had to leave their homeland behind and migrate to Abyssinia and Medina. Even then the enemies of Islam didn’t let them rest in peace. 313 v 1000; extremely outnumbered. Then 700 v 3000. Then trench. Then the battles against apostates and Sassanids and Byzantines. 
 - The odds always seemed to be against the Muslims yet they prevailed. They never surrendered. They beared unbearable persecution and surmounted seemingly insurmountable obstacles. 
 - What kept them going despite all the opposition? What made many give up their comfortable lives? What made them bear all the persecution. What kept them from running away when they saw much superior forces? 
@@ -71,37 +72,35 @@ What you just read was the unfinished but 'neat' version of the description-text
 - This is a major problem today. Many people r Muslim today simply because they were born into Muslim families. Many have never really investigated into Islam themselves and thanks to the secular age most are just busy thinking about their financial future and whatnot. And chilling and stuff and all that without ever thinking abt Islam. They don’t know why Islam is true.
 - Then there are some who know that Islam is true. But they still don’t apply its teachings. Revisit that random-guy asking you to go to battle with him. Even if he convinces you that the matter is of great importance and is ethical and whatnot, why should you follow him? What’s in it for you? 
 - That’s where the issue of incentives comes up. Because of the sheer importance of obeying Allah. Of praying, of this, of that. And of worldly benefits too, which is the hikmah behind Islamic injunctions like zakat being there to economically benefit the society etc. and ushr rates differing based on irrigation to incentivise ppl to develop irrigation stuff. And prayer being a reboot and spiritual connection to Allah. Etc. and also heaven and hell.. not just a mention of them, vivid descriptions so people are incentivised to strive for heaven and stay away from hell.
-- Then there’s the final type which is the hardest to cure and often impossible to cure. Ego. Iblid for example knows Islam is true and knows that he SHOULD do good stuff to get into heaven and avoid hell and he knows what they’re like. But he’s sooo egoistic he just doesn’t. May Allah prevent us all from being like him. 
+- Then there’s the final type which is the hardest to cure and often impossible to cure. Ego. Iblis, for example, knows Islam is true and knows that he SHOULD do good stuff to get into heaven and avoid hell and he knows what they’re like. But he’s sooo egoistic he just doesn’t. May Allah prevent us all from being like him. 
 - So… this is where our project comes in. Project 51-AFKI of Operation Distributing Bread. 
 - Open source, crowdsourced, crowdfunded. The ultimate aim of which is to compile various resources for Islam. The main goal is a book with three versions… a short tldr version, a standard edition, and a scholarly edition which if necessary may have several volumes. 
 - Now you may say there are already many great resources for Islam and in that we wholeheartedly agree. But think again abt the early days of Islam. The Qur’an was written on many different parchments and bones and whatnot. But then it was compiled under Hz Abu Bakr (and standardised under Hz Uthman) which allows us today and allowed people then to study Islam and the Qur’an with ease without having to find different parchments and whatnot. 
 - Witness, warner, bearer of glad tidings verse somewhere around here
 - The whole purpose of this compilation is also this. To make it easy for everyone, Muslim or not, to study Islam. The book isn’t the only thing. We aspire to make websites, infographics, lectures, courses for educational institutions, video series, podcasts, and even basic conversations and speeches. The mode of the transmission of knowledge isn’t what matters more. What matters more is that this knowledge is transmitted.
-- The format of this book and site and all is basically this. Section 1 related to veracity of Islam. Start by disproving atheism, and proving that God exists. Then discussing the probs with polytheism, simulationism, pantheism, etc till we’ve concluded that monotheism is the only logical choice. Then we present proofs for Islam. 
+- The format of this book and site and all is basically this. Section 1 related to veracity of Islam. Start by disproving atheism, and proving that God exists. Then discussing the probs with polytheism, simulationism, pantheism, etc till we’ve concluded that monotheism is the only logical choice. Then we present proofs for Islam. ("witness" in the verse 33:45)
 - Allah’s Attributes through His Names. His Messenger’s teachings and character. The prophecies of Islam. The perfection of Islam’s teachings. The Qur’an and its miracles. Islam’s consistency with knowledge and logic and proven science. (Chapter 3), debunking islamophobes’ attacks against Islam. 
-- Chapter 4 to disproving other religions like Christianity and Judaism and Hinduism etc by pointing out inconsistencies and all. 
-- Section 2, relating to incentives we discussed. Then in later chaps, discuss Islamic teachings because we just learned why Islam is true so how to get started. We can also use to discuss Islam and its teachings in general. also, a way of Islamic thinking. nowadays ppl face 'problematic' verses n ahadith n reinterpret Islam to feel better, or sometimes reject Islam, or selectively reject ahadith. importance of knowing context right there.
-- Section 3, relating to applying Islam in the modern era. Not 'reforming' and 'bidah'ing Islam. Just applying it again. A roadmap basically. Discussing solutions to modern problems. Perhaps ways to solve the crises we face. Stuff like importance of uh learning, entrepreneurship, a good edu system which produces thinkers rather than mere workers, stuff like a bayt al hikma 2.0, etc. Not to mention: the importance of brotherhood. We all know Saladin. Who preceded Saladin? Nureddin. Whereas Salahuddin built the building, the materials were gathered by and the foundation was built by Nureddin. His main goal? Unity. So yes, lots and lots of verses and ahadith supporting the idea of unity and brotherhood in Islam. Other than that we can include references to project er-97 and project chlorophyll. cuz the Earth is a blessing from Allah. And we must protect it and care for it. Cite lots and lots of verses n ahadith supporting environmental action. also er-97: literally the first Word of the Quran that was revealed was "read". the Quran says look around, observe, think. so we need an edu system doing that.
-- contents of this book however necessary
+- Chapter 4 to identifying flaws in other religions like Christianity and Judaism and Hinduism etc by pointing out inconsistencies and all. 
+- Section 2, relating to incentives we discussed. Then in later chaps, discuss Islamic teachings because we just learned why Islam is true so how to get started. We can also use to discuss Islam and its teachings in general. also, a way of Islamic thinking. nowadays ppl face 'problematic' verses n ahadith n reinterpret Islam to feel better, or sometimes reject Islam, or selectively reject ahadith. importance of knowing context right there. (this chapter = "bearer of glad tidings" and "warner" as in the verse 33:45)
+- Section 3, relating to applying Islam in the modern era. Not 'reforming' and "bidah'ing" Islam. Just applying it again. A roadmap basically. Discussing solutions to modern problems. Perhaps ways to solve the crises we face. Stuff like importance of uh learning, entrepreneurship, a good edu system which produces thinkers rather than mere workers, stuff like a bayt al hikma 2.0, etc. Not to mention: the importance of brotherhood. We all know Saladin. Who preceded Saladin? Nureddin. Whereas Salahuddin built the building, the materials were gathered by and the foundation was built by Nureddin. His main goal? Unity. So yes, lots and lots of verses and ahadith supporting the idea of unity and brotherhood in Islam. Other than that we can include references to project er-97 and project chlorophyll. cuz the Earth is a blessing from Allah. And we must protect it and care for it. Cite lots and lots of verses n ahadith supporting environmental action. also er-97: literally the first Word of the Quran that was revealed was "read". the Quran says look around, observe, think. so we need an edu system doing that.
 - So, what can you do?
 
-
-- We don’t ask you for your money, we ask for your contributions. 5mins a day is good for us. We’re not asking u to be always available. I understand this as a student myself. This project has been a one man army. Crowdfunding is better. There are many. Many ways in which u can contribute. 
+- We don’t ask you for your money, we ask for your contributions. 5mins a day is good for us. We’re not asking u to be always available. I understand this as a student myself. This project has been a one man army, started in the loaf of bread's mind in late 2023, evolving and surviving contributors who defo didn't notice the 23yrs part, and eventually in early 2026 after reached this state, and in roughly written form at long last. (writing this here to let u know that the project isn't a get-rich-quick scheme, it'll take a long time, possibly a generation worth of time)
+-  InshaAllah, the rough notes shallt be rewritten neatly utilising that english A* in this summer. and a "minimum viable product" has to be mafe.
+-   Anyways, crowdsourcing is better. There are many, Many ways in which u can contribute. 
 
 - Some of the ways in which you can contribute
 * Give us ideas
 * Be an advisor
 * Submit facts (with sources)
- 
 * Set up a proper website for our knowledge repository
-* Cybersecurity expert, work to safeguard our website against malicious activities such as DDOS attacks and   hacking
+* Cybersecurity expert, work to safeguard our website against malicious activities such as DDOS attacks and hacking
 * Simply use wayback machine to save our website’s webpages every time you view it
 * Tell your friends about the project
 * Sponsor the free printing and the distribution of the books
 * Set up a better way for us to receive submissions as Google Forms is not that flexible
 * Set up a better way for us to display said submissions
 * Set up a better place for us to communicate and coordinate
-
  * Help us get in contact with Islamic organisations and scholars around the world
 * Encourage said organisations and scholars to collaborate with us actively
 * Be among the writers and/or editors of the book
@@ -111,8 +110,9 @@ What you just read was the unfinished but 'neat' version of the description-text
 * Translate the site into finished books
 * Verify submitted facts
 * Research
+* 
 - So uh yes. We have this site. This server. This is the forms where you submit stuff. We could use better platforms and distributed networks to avoid all our stuff being taken down. Also other stuff. 
-- Tl;dr
+- Tl;dr at the end
 5mins a day is good for us btw
 
 thas abt it.

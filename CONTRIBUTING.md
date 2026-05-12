@@ -22,4 +22,4 @@ Here are some standards that you should try your best to meet or exceed:
 
 
 InshaAllah the submissions process might work perhaps in this way: 
-- a branch for everyone to be able to contribute to and create PRs at. if these are validated by the community, then the editorial council comprised of experts will validate stuff.
+- a branch for everyone to be able to contribute to and create PRs at. if these are validated by the community, then the editorial council comprised of experts will validate stuff. edit: council hasn't been formed yet but it might be composed of ppl with proper expertise in Islam, its creed, basic tenets, its proofs, fiqh, and also maybe some members of STEM who can validate any peer reviewed papers for authenticity to prevent pseudoscience and all.

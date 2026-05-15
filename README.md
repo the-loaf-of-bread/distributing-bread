@@ -51,32 +51,32 @@ The ‘systematic renewal’ in question was anything but easy. 23 years of unpa
 - Recognises that our planet is facing a myriad of environmental problems such as climate change and global warming;
 
 ## References:
-[^1] https://sunnah.com/muslim:145
-[^2] https://www.cair.com/press_releases/cairs-civil-rights-report-shows-islamophobia-complaints-at-all-time-high-viewpoint-discrimination-key-factor/
-[^3] https://www.aljazeera.com/news/2025/3/11/anti-muslim-hate-hits-new-high-in-us-advocacy-group
-[^4] https://fra.europa.eu/sites/default/files/fra_uploads/fra-2017-eu-minorities-survey-muslims-selected-findings_en.pdf
-[^5] https://fra.europa.eu/sites/default/files/fra_uploads/fra-2024-being-muslim-in-the-eu_en.pdf
-[^6] https://theconversation.com/yes-muslims-are-portrayed-negatively-in-american-media-2-political-scientists-reviewed-over-250-000-articles-to-find-conclusive-evidence-183327
-[^7] https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=fr&lang=en&
-[^8] https://www.arabbarometer.org/surveys/arab-barometer-wave-vii/
-[^9] https://www.arabbarometer.org/survey-data/data-analysis-tool/
-[^10] https://www.abuaminaelias.com/dailyhadithonline/2013/11/28/bonds-of-islam-undone-pray/
-[^11] https://www.unrwa.org/resources/reports/unrwa-situation-report-210-humanitarian-crisis-gaza-strip-and-occupied-west-bank
-[^12] https://news.un.org/en/story/2023/05/1136662
-[^13] https://www.unocha.org/news/one-year-unimaginable-suffering-7-october-attack
-[^14] https://www.hrw.org/sites/default/files/reports/INDIA937.PDF
-[^15] https://www.hrw.org/sites/default/files/report_pdf/china0918_web.pdf
-[^16] https://www.bbc.com/news/world-asia-china-53220713
-[^17] https://www.crisisgroup.org/brf/middle-east-north-africa/north-africa/egypt-israelpalestine/b91-egypts-gaza-dilemmas
-[^18] https://www.bbc.com/news/articles/c3w1nzpg5dgo
-[^19] https://reliefweb.int/report/syrian-arab-republic/rule-terror-living-under-isis-syria
-[^20] https://rissc.jo/wp-content/uploads/2019/04/Letter_to_Baghdadi-EN.pdf
-[^21] https://ppc.sas.upenn.edu/sites/default/files/lhtheoryevidence.pdf
-[^22] https://quran.com/en/ali-imran/104
-[^23] https://www.britannica.com/topic/jahiliyah
-[^24] https://quran.com/sad/4
-[^25] https://quran.com/al-hijr/6
-[^26] https://quran.com/at-tur/30
+[^1]: https://sunnah.com/muslim:145
+[^2]: https://www.cair.com/press_releases/cairs-civil-rights-report-shows-islamophobia-complaints-at-all-time-high-viewpoint-discrimination-key-factor/
+[^3]: https://www.aljazeera.com/news/2025/3/11/anti-muslim-hate-hits-new-high-in-us-advocacy-group
+[^4]: https://fra.europa.eu/sites/default/files/fra_uploads/fra-2017-eu-minorities-survey-muslims-selected-findings_en.pdf
+[^5]: https://fra.europa.eu/sites/default/files/fra_uploads/fra-2024-being-muslim-in-the-eu_en.pdf
+[^6]: https://theconversation.com/yes-muslims-are-portrayed-negatively-in-american-media-2-political-scientists-reviewed-over-250-000-articles-to-find-conclusive-evidence-183327
+[^7]: https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=fr&lang=en&
+[^8]: https://www.arabbarometer.org/surveys/arab-barometer-wave-vii/
+[^9]: https://www.arabbarometer.org/survey-data/data-analysis-tool/
+[^10]: https://www.abuaminaelias.com/dailyhadithonline/2013/11/28/bonds-of-islam-undone-pray/
+[^11]: https://www.unrwa.org/resources/reports/unrwa-situation-report-210-humanitarian-crisis-gaza-strip-and-occupied-west-bank
+[^12]: https://news.un.org/en/story/2023/05/1136662
+[^13]: https://www.unocha.org/news/one-year-unimaginable-suffering-7-october-attack
+[^14]: https://www.hrw.org/sites/default/files/reports/INDIA937.PDF
+[^15]: https://www.hrw.org/sites/default/files/report_pdf/china0918_web.pdf
+[^16]: https://www.bbc.com/news/world-asia-china-53220713
+[^17]: https://www.crisisgroup.org/brf/middle-east-north-africa/north-africa/egypt-israelpalestine/b91-egypts-gaza-dilemmas
+[^18]: https://www.bbc.com/news/articles/c3w1nzpg5dgo
+[^19]: https://reliefweb.int/report/syrian-arab-republic/rule-terror-living-under-isis-syria
+[^20]: https://rissc.jo/wp-content/uploads/2019/04/Letter_to_Baghdadi-EN.pdf
+[^21]: https://ppc.sas.upenn.edu/sites/default/files/lhtheoryevidence.pdf
+[^22]: https://quran.com/en/ali-imran/104
+[^23]: https://www.britannica.com/topic/jahiliyah
+[^24]: https://quran.com/sad/4
+[^25]: https://quran.com/al-hijr/6
+[^26]: https://quran.com/at-tur/30
 
 
 

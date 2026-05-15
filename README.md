@@ -17,11 +17,11 @@ Brief Overview of Constituent Projects:
 
 These days are certainly not the best days for the Muslims. Our religion is under attack. Islamophobia is on the rise. 
 
-“Islam initiated as something strange, and it would revert to its (old position) of being strange, so glad tidings to the strangers.” (Sahih Muslim 145)[^1]
+> “Islam initiated as something strange, and it would revert to its (old position) of being strange, so glad tidings to the strangers.” (Sahih Muslim 145)[^1]
 
 This is unfolding before our eyes. For example, a study by CAIR concluded that anti-Muslim incidents reached record highs in 2024, with a 7.4% year-on-year increase in the US[^2][^3]; while the EU FRA found that in 2024 nearly ​​50% of Muslims in the EU reported experiencing discrimination in daily life[^4], an increase from 39% reported in 2016[^5]. Another study found that in fourteen American newspapers, 80% of all articles related to Muslims were negative[^6][^7]. At the same time as this, surveys by the Arab Barometer[^8][^9] show that there is a noticeable gap between the number of people who identify as Muslim, and the number of people who pray daily; which is a rather troubling fact. 
 
-“The bonds of Islam will be undone one by one, and every time a bond is undone, the people will cling to what follows it. The first to be undone will be ruling, and the last will be the prayer.” (Musnad Aḥmad 22160)[^10]
+> “The bonds of Islam will be undone one by one, and every time a bond is undone, the people will cling to what follows it. The first to be undone will be ruling, and the last will be the prayer.” (Musnad Aḥmad 22160)[^10]
 
 There are certain correctable reasons behind the undoing of these bonds; but before we discuss those reasons and how to address them, we need to recognise that due to the absence of the bond of ruling, this “decay” is not restricted to the intellectual domain. Approximately 72,000 Palestinians have been martyred since 7th October 2023, and about 170,000 have been injured[^11]. Close to 700,000 Palestinians were displaced during the First Nakba[^12]. In contrast, nearly the entire population of Gaza has been displaced since 7th October 2023[^13]. In Kashmir, there have been indiscriminate killings, enforced disappearances, rapes, extrajudicial executions, curfews, raids on hospitals, and much more[^14]. Similarly, the Uyghurs in China have been subjected to torture, ill-treatment in detention camps, mass surveillance, and restrictions to freedom of movement, freedom of speech, and even freedom of reproduction (by forcing Uyghurs to be sterilised)[^15][^16]. 
 
@@ -34,7 +34,7 @@ Simultaneously, extremist elements have hijacked the name of Islam and distorted
 To many, the situation appears irredeemable. Witnessing the failure of many movements that sought to improve the status quo has left the people in a state of ‘learned helplessness’[^21]; we have been gradually conditioned to believe that our individual and collective thoughts and actions do not matter much. It has become commonplace for people to get disillusioned and give up. 
 
 Yet, this resignation is incompatible with the methodology of Islam. Our religion does not teach us to accept defeat and surrender; it teaches us to strive. 
-“And let there be (arising) from you a nation inviting to (all that is) good, enjoining what is right and forbidding what is wrong, and those will be the successful.” (Āli-ʿImrān, Ayah 104)[^22]
+> “And let there be (arising) from you a nation inviting to (all that is) good, enjoining what is right and forbidding what is wrong, and those will be the successful.” (Āli-ʿImrān, Ayah 104)[^22]
 
 The mandate to enjoin that which is right and forbid that which is wrong is not a suggestion, but a command. It is the divine mechanism through which we are able to keep our society calibrated. By abandoning this, we are not merely allowing our societal structure to decay; we are failing to fulfill an injunction from Allah Himself. 
 
